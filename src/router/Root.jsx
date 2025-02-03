@@ -9,20 +9,20 @@ export const Root = () => {
     <BrowserRouter>
       <Routes>
         <Route
-          path='/'
+          path='/mi-app/'
           element={<Home />}
         />
         <Route
-          path='/conoceme'
+          path='/mi-app/conoceme'
           element={<About />}
         />
         <Route
-          path='/proyectos'
+          path='/mi-app/proyectos'
           element={<Project />}
         />
-      
+
         <Route
-          path='/resumen'
+          path='/mi-app/resumen'
           element={<Resumen />}
         />
       </Routes>
