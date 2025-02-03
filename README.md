@@ -1,6 +1,16 @@
-Este esta segunda version del portafolio web  esta desarrollada en react
-consta de :
-1-. inicio: donde podras observar quien soy , un muy breve presentacion y como contactarme por las redes.
-2-. conoceme : un poco mas del lenguaje que menejo y las herramientos que utilizo.
-3-. proyectos: mis proyectos finalizados.
-4.- resumen: un breve sintesis curricular.     
+Mi Portafolio Web
+Bienvenido/a a la segunda versión de mi portafolio web, desarrollado con React 🚀.
+
+🖥️ Secciones
+🔹 Inicio: Una breve presentación sobre quién soy y enlaces a mis redes de contacto.
+🔹 Conóceme: Información sobre los lenguajes de programación y herramientas que utilizo.
+🔹 Proyectos: Un vistazo a los proyectos que he desarrollado.
+🔹 Resumen: Una síntesis curricular con mis experiencias y habilidades.
+
+📬 Contacto
+Si quieres saber más sobre mí o colaborar en un proyecto, puedes encontrarme en:
+
+📧 Email: [com2pa@gmail.com ]
+💼 LinkedIn: [linkedin.com/in/com2pa]
+
+seguire de mejorando las futura versiones
