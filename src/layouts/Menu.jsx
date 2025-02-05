@@ -163,10 +163,10 @@ MobileNavItem.propTypes = {
   href: PropTypes.string,
 };
 const NAV_ITEMS = [
-  { label: 'Inicio', href: '/portafolioweb/' },
-  { label: 'Conoceme', href: '/portafolioweb/conoceme' },
-  { label: 'Proyectos', href: '/portafolioweb/proyectos' },
-  { label: 'Resumen', href: '/portafolioweb/resumen' },
+  { label: 'Inicio', href: '/' },
+  { label: 'Conoceme', href: '/conoceme' },
+  { label: 'Proyectos', href: '/proyectos' },
+  { label: 'Resumen', href: '/resumen' },
 ];
 
 export default Menu;
