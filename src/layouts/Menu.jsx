@@ -164,9 +164,9 @@ MobileNavItem.propTypes = {
 };
 const NAV_ITEMS = [
   { label: 'Inicio', href: '/portafolioweb/' },
-  { label: 'Conoceme', href: '/conoceme' },
-  { label: 'Proyectos', href: 'proyectos' },
-  { label: 'Resumen', href: '/resumen' },
+  { label: 'Conoceme', href: '/portafolioweb/conoceme' },
+  { label: 'Proyectos', href: '/portafolioweb/proyectos' },
+  { label: 'Resumen', href: '/portafolioweb/resumen' },
 ];
 
 export default Menu;
