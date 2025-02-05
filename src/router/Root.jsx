@@ -6,7 +6,7 @@ import Resumen from '../page/Resumen';
 
 export const Root = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/portafolioweb'>
       <Routes>
         <Route
           path='/'
