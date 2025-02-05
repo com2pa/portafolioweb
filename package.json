@@ -1,6 +1,6 @@
 {
   "name": "portafolioweb",
-  "namepage": "http://com2pa.github.io/portafolioweb/",
+  "namepage": "https://com2pa.github.io/portafolioweb/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview --port 8080",
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist -r https://github.com/com2pa/portafolioweb.git"
   },
   "dependencies": {
     "@chakra-ui/icons": "^2.2.4",
